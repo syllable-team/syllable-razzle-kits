@@ -1,4 +1,15 @@
-**WARNING: This is the documentation for `razzle@next` (Webpack 4).**  
+# syllable-razzle-kits
+
+Thin boilerplate starters built on top of razzle.
+
+More information TK
+
+
+### See information about Razzle below.
+----------------------------------------
+
+
+**WARNING: This is the documentation for `razzle@next` (Webpack 4).**
 [Go here for for razzle@0.8.x (stable) docs (Webpack 3)](https://github.com/jaredpalmer/razzle/tree/master).
 
 ![repo-banner](https://user-images.githubusercontent.com/4060187/28923990-050a32d4-782e-11e7-9da7-574ce5a8b455.png)
@@ -38,7 +49,7 @@ Below is a list of commands you will probably find useful.
 
 ### `npm start` or `yarn start`
 
-Runs the project in development mode.  
+Runs the project in development mode.
 You can view your application at `http://localhost:3000`
 
 The page will reload if you make edits.
